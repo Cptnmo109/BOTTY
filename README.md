@@ -1,2 +1,1 @@
-# BOTTY
-Created with CodeSandbox
+# rd-s-bot
